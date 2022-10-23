@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mP2TcaH3OF7mEe1rn2ARhGQU1MBc/5x1aNcoe7ZYA/c=",
+  "Source": "Weather.Temperature",
+  "BasePath": "_content/Weather.Temperature",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

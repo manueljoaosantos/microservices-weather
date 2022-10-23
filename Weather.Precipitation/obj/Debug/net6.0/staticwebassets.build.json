@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QpfsgX2BQ/H7MmaReiCnbvRF4nHTJCJjFJV236vQxxI=",
+  "Source": "Weather.Precipitation",
+  "BasePath": "_content/Weather.Precipitation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

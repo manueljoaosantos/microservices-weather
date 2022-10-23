@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRWapPxtLptFuWnY+s00UsBgAy36NsmV102tn+XSSuxTCM3811mL+pkExaDYCJ/DG9QFfeG23o1oRgwKS7m1UA==",
+  "success": true,
+  "projectFilePath": "C:\\Projectos\\microservices-weather\\Weather.Precipitation\\Weather.Precipitation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjsan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mjsan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mjsan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mjsan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mjsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mjsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
