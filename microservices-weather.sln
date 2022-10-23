@@ -1,23 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.DataLoader", "Weather.DataLoader\Weather.DataLoader.csproj", "{8050BB8C-ED97-4925-A382-2FCC2DD62D14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.DataLoader", "Weather.DataLoader\Weather.DataLoader.csproj", "{8050BB8C-ED97-4925-A382-2FCC2DD62D14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Precipitation", "Weather.Precipitation\Weather.Precipitation.csproj", "{E3D8ECEB-9779-4A22-9054-828B123DBD0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Precipitation", "Weather.Precipitation\Weather.Precipitation.csproj", "{E3D8ECEB-9779-4A22-9054-828B123DBD0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Report", "Weather.Report\Weather.Report.csproj", "{83ADCAE8-A911-4746-A90B-DD337EADB44B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Report", "Weather.Report\Weather.Report.csproj", "{83ADCAE8-A911-4746-A90B-DD337EADB44B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Temperature", "Weather.Temperature\Weather.Temperature.csproj", "{DAE6860C-98F9-4B58-BE6A-9812CEDBFB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Temperature", "Weather.Temperature\Weather.Temperature.csproj", "{DAE6860C-98F9-4B58-BE6A-9812CEDBFB03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F69921FB-C30E-4C0B-A378-D11A8F6E6775}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		Weather.DataLoader\ReadMe.txt = Weather.DataLoader\ReadMe.txt
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8050BB8C-ED97-4925-A382-2FCC2DD62D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -36,5 +40,11 @@ Global
 		{DAE6860C-98F9-4B58-BE6A-9812CEDBFB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE6860C-98F9-4B58-BE6A-9812CEDBFB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE6860C-98F9-4B58-BE6A-9812CEDBFB03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454242DC-4022-48A9-906C-9FC65631F99B}
 	EndGlobalSection
 EndGlobal
